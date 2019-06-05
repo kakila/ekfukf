@@ -80,4 +80,4 @@ Demonstration programs for multiple model systems:
 
 License
 --
-This software is distributed under the GNU General Public License (version 2 or later); please refer to the file `LICENSE.txt`, included with the software, for details.
+This software is distributed under the GNU General Public License (version 2 or later); please refer to the file `COPYING`, included with the software, for details.
